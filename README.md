@@ -111,10 +111,12 @@ This methodology is applicable to a wide range of real-world scenarios:
 
 ## 🧾 License
 
-This project is educational and open for academic and research purposes. Please cite or refer to the author if reused.
+This repository is licensed under the MIT License.
+You are free to use, modify, and distribute this project with attribution.
+See the LICENSE file for details.
 
 ---
 
-✍️ Author
+## ✍️ Author
 
 Developed by Gabriel Ribeiro as part of research in Operational Research, Machine Learning, and Customer Satisfaction Modeling.
